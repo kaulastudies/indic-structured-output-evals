@@ -1,0 +1,20 @@
+test_bad_controls (test_evalkit.ContractTests.test_bad_controls) ... ok
+test_cli_invalid_input_does_not_echo_secret (test_evalkit.ContractTests.test_cli_invalid_input_does_not_echo_secret) ... ok
+test_duplicate_or_unknown_observations_rejected (test_evalkit.ContractTests.test_duplicate_or_unknown_observations_rejected) ... ok
+test_empty_and_duplicate_inventory_rejected (test_evalkit.ContractTests.test_empty_and_duplicate_inventory_rejected) ... ok
+test_exact_json_and_reordered_keys (test_evalkit.ContractTests.test_exact_json_and_reordered_keys) ... ok
+test_failed_observation_holds (test_evalkit.ContractTests.test_failed_observation_holds) ... ok
+test_good_control_passes (test_evalkit.ContractTests.test_good_control_passes) ... ok
+test_inventory_and_playground_replay (test_evalkit.ContractTests.test_inventory_and_playground_replay) ... ok
+test_missing_evidence_holds (test_evalkit.ContractTests.test_missing_evidence_holds) ... ok
+test_missing_provenance_rejected (test_evalkit.ContractTests.test_missing_provenance_rejected) ... ok
+test_nested_duplicate_keys_rejected (test_evalkit.ContractTests.test_nested_duplicate_keys_rejected) ... ok
+test_nonobject_records_rejected (test_evalkit.ContractTests.test_nonobject_records_rejected) ... ok
+test_response_type_rejected (test_evalkit.ContractTests.test_response_type_rejected) ... ok
+test_stale_prompt_rejected (test_evalkit.ContractTests.test_stale_prompt_rejected) ... ok
+test_unreviewed_case_cannot_release (test_evalkit.ContractTests.test_unreviewed_case_cannot_release) ... ok
+
+----------------------------------------------------------------------
+Ran 15 tests in 0.047s
+
+OK

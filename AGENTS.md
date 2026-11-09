@@ -1,0 +1,3 @@
+# Project instructions
+
+Run `python -m unittest discover -s tests -v`. Use Python standard library only unless there is an explicit reason to add a dependency. This repository is public; never add credentials, customer records or private request IDs. Do not use saved browser credentials without explicit user permission. No automatic model calls. Keep synthetic, copied UI and API evidence sources separate. Preserve frozen labels and failing baselines. Bilingual review remains pending until a named reviewer supplies real review evidence. Do not describe checker tests as model performance. Changing the release gate requires good/bad control evidence.

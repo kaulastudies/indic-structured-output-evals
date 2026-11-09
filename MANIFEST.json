@@ -1,0 +1,18 @@
+{
+  "files": {
+    ".gitignore": "4adaa2f02183ab51e168a2bc013e95e3f073ba9ffa37a85caaff92ad46d1d159",
+    "AGENTS.md": "4feadaef94779b4c367f15e4ae83c17f33c48e03b419566c080a1c41e016204f",
+    "LICENSE": "c95bae1d1ce0235ecccd3560b772ec1efb97f348a79f0fbe0a634f0c2ccefe2c",
+    "README.md": "48ddbf8a280f6603f46f6d660f93b67c5dd00dc7d26d986124da3007133560ea",
+    "data/cases.json": "b142fbe975697f131629f843d56c07802fdfb55bd05c42ee5f2996905f674761",
+    "data/playground-observations.json": "ddd8b5bfce7039c4ee740fe96e745e91610d76c56e9365956e6d19468c697a88",
+    "docs/CONTRIBUTIONS.md": "af1863ed2e6c381cd9a3e0ae7fcc98898d17815ae2fc3e1acd70b4c888ded34f",
+    "docs/METHOD.md": "91baf02fd7baab23a1394e1ad6edd8d20486221e0849afaaee90283991b4b96f",
+    "docs/PILOT.md": "d9388e0060289d12bff496a04c7d48e86e3bf4400700ab6ca8b44896015caa4b",
+    "evalkit.py": "dc0029f431876b9842214e04dab3352174661b6d394cc866712d12a44f3c6ccb",
+    "evidence/playground-replay.json": "3d7266b9325c184fd3f971cf82ee5bc5ea43e99d6bb46a001a484f884f76c88f",
+    "evidence/unit-tests.log": "494bf47a0fd3f2110ae96c08872da0dbaa61b85b0a8c4459a3fa3b5836f5b3c5",
+    "tests/test_evalkit.py": "1d556b2912eceeccd990a9d57c0b4e68cfbc2e7b7d6732011ca7960a9cd016e9"
+  },
+  "purpose": "Content hashes; no collector authentication claimed"
+}
